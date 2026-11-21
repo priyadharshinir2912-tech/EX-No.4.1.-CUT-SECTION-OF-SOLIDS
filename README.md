@@ -30,9 +30,6 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
 
 7.Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
-
 8.Use revolve option to convert 2D to 3D.
 
 ![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
@@ -41,6 +38,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+<img width="1022" height="743" alt="Screenshot 2026-11-17 222959" src="https://github.com/user-attachments/assets/c5e056d6-e4f2-46e4-9d1b-ea6f48528189" />
+
 
 ## RESULT:
 
